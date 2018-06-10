@@ -1,0 +1,236 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\scotty\Desktop\t\a.uvproj
+Project File Date:  06/04/2018
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+linking...
+Program Size: data=9.0 xdata=0 code=20
+"a" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+T.C(13): warning C206: 'delay': missing function-prototype
+T.C(13): error C267: 'delay': requires ANSI-style prototype
+T.C(18): error C202: 'P4': undefined identifier
+T.C(19): error C141: syntax error near 'delay'
+T.C(35): error C231: 'delay': redefinition
+T.C(39): error C231: 'delay': redefinition
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+T.C(5): error C136: 'delay': 'void' on variable
+T.C(5): error C129: missing ';' before 'void'
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+T.C(6): error C132: 'main': not in formal parameter list
+T.C(6): error C141: syntax error near '{'
+T.C(9): error C244: 'i': can't initialize, bad type or class
+T.C(9): error C132: 'i': not in formal parameter list
+T.C(10): error C141: syntax error near 'while'
+T.C(10): error C141: syntax error near '<', expected ')'
+T.C(12): error C231: 'P1': redefinition
+T.C(12): error C231: 'P1': redefinition
+T.C(13): error C141: syntax error near '1000'
+T.C(14): error C231: 'P2': redefinition
+T.C(14): error C231: 'P2': redefinition
+T.C(15): error C141: syntax error near '1000'
+T.C(16): error C231: 'P3': redefinition
+T.C(16): error C231: 'P3': redefinition
+T.C(17): error C141: syntax error near '1000'
+T.C(19): error C141: syntax error near 'delay'
+T.C(20): error C141: syntax error near '}'
+T.C(21): error C141: syntax error near '<', expected ')'
+T.C(23): error C279: 'P1': multiple initialization
+T.C(23): error C231: 'P1': redefinition
+T.C(23): error C231: 'P1': redefinition
+T.C(24): error C141: syntax error near '1000'
+T.C(25): error C279: 'P2': multiple initialization
+T.C(25): error C231: 'P2': redefinition
+T.C(25): error C231: 'P2': redefinition
+T.C(26): error C141: syntax error near '1000'
+T.C(27): error C279: 'P3': multiple initialization
+T.C(27): error C231: 'P3': redefinition
+T.C(27): error C231: 'P3': redefinition
+T.C(28): error C141: syntax error near '1000'
+T.C(29): error C141: syntax error near '}'
+T.C(35): error C231: 'delay': redefinition
+T.C(39): error C231: 'delay': redefinition
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+T.C(5): error C158: '_delay': function contains unnamed parameter
+T.C(6): error C132: 'main': not in formal parameter list
+T.C(6): error C141: syntax error near '{'
+T.C(9): error C244: 'i': can't initialize, bad type or class
+T.C(9): error C132: 'i': not in formal parameter list
+T.C(10): error C141: syntax error near 'while'
+T.C(10): error C141: syntax error near '<', expected ')'
+T.C(12): error C231: 'P1': redefinition
+T.C(12): error C231: 'P1': redefinition
+T.C(13): error C141: syntax error near '1000'
+T.C(14): error C231: 'P2': redefinition
+T.C(14): error C231: 'P2': redefinition
+T.C(15): error C141: syntax error near '1000'
+T.C(16): error C231: 'P3': redefinition
+T.C(16): error C231: 'P3': redefinition
+T.C(17): error C141: syntax error near '1000'
+T.C(19): error C141: syntax error near 'delay'
+T.C(20): error C141: syntax error near '}'
+T.C(21): error C141: syntax error near '<', expected ')'
+T.C(23): error C279: 'P1': multiple initialization
+T.C(23): error C231: 'P1': redefinition
+T.C(23): error C231: 'P1': redefinition
+T.C(24): error C141: syntax error near '1000'
+T.C(25): error C279: 'P2': multiple initialization
+T.C(25): error C231: 'P2': redefinition
+T.C(25): error C231: 'P2': redefinition
+T.C(26): error C141: syntax error near '1000'
+T.C(27): error C279: 'P3': multiple initialization
+T.C(27): error C231: 'P3': redefinition
+T.C(27): error C231: 'P3': redefinition
+T.C(28): error C141: syntax error near '1000'
+T.C(29): error C141: syntax error near '}'
+T.C(35): error C231: 'delay': redefinition
+T.C(39): error C231: 'delay': redefinition
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+T.C(6): error C132: 'main': not in formal parameter list
+T.C(6): error C141: syntax error near '{'
+T.C(9): error C244: 'i': can't initialize, bad type or class
+T.C(9): error C132: 'i': not in formal parameter list
+T.C(10): error C141: syntax error near 'while'
+T.C(10): error C141: syntax error near '<', expected ')'
+T.C(12): error C231: 'P1': redefinition
+T.C(12): error C231: 'P1': redefinition
+T.C(13): error C141: syntax error near '1000'
+T.C(14): error C231: 'P2': redefinition
+T.C(14): error C231: 'P2': redefinition
+T.C(15): error C141: syntax error near '1000'
+T.C(16): error C231: 'P3': redefinition
+T.C(16): error C231: 'P3': redefinition
+T.C(17): error C141: syntax error near '1000'
+T.C(19): error C141: syntax error near 'delay'
+T.C(20): error C141: syntax error near '}'
+T.C(21): error C141: syntax error near '<', expected ')'
+T.C(23): error C279: 'P1': multiple initialization
+T.C(23): error C231: 'P1': redefinition
+T.C(23): error C231: 'P1': redefinition
+T.C(24): error C141: syntax error near '1000'
+T.C(25): error C279: 'P2': multiple initialization
+T.C(25): error C231: 'P2': redefinition
+T.C(25): error C231: 'P2': redefinition
+T.C(26): error C141: syntax error near '1000'
+T.C(27): error C279: 'P3': multiple initialization
+T.C(27): error C231: 'P3': redefinition
+T.C(27): error C231: 'P3': redefinition
+T.C(28): error C141: syntax error near '1000'
+T.C(29): error C141: syntax error near '}'
+T.C(35): error C231: 'delay': redefinition
+T.C(39): error C231: 'delay': redefinition
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+T.C(12): warning C206: 'delay': missing function-prototype
+T.C(12): error C267: 'delay': requires ANSI-style prototype
+T.C(17): error C202: 'P4': undefined identifier
+T.C(18): error C141: syntax error near 'delay'
+T.C(34): error C231: 'delay': redefinition
+T.C(38): error C231: 'delay': redefinition
+Target not created
+compiling t.c...
+T.C(12): warning C206: 'delay': missing function-prototype
+T.C(12): error C267: 'delay': requires ANSI-style prototype
+T.C(17): error C202: 'P4': undefined identifier
+T.C(34): error C231: 'delay': redefinition
+T.C(38): error C231: 'delay': redefinition
+t.c - 4 Error(s), 1 Warning(s).
+compiling t.c...
+T.C(12): warning C206: 'delay': missing function-prototype
+T.C(12): error C267: 'delay': requires ANSI-style prototype
+T.C(34): error C231: 'delay': redefinition
+T.C(38): error C231: 'delay': redefinition
+t.c - 3 Error(s), 1 Warning(s).
+compiling t.c...
+t.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+linking...
+Program Size: data=11.0 xdata=0 code=123
+"a" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+linking...
+Program Size: data=11.0 xdata=0 code=123
+creating hex file from "a"...
+"a" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+linking...
+Program Size: data=11.0 xdata=0 code=123
+creating hex file from "a"...
+"a" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+T.C(22): error C141: syntax error near 'uint'
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+T.C(22): error C141: syntax error near 'uint'
+T.C(22): error C202: 'j': undefined identifier
+T.C(23): error C202: 'j': undefined identifier
+T.C(31): error C202: 'j': undefined identifier
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+linking...
+Program Size: data=11.0 xdata=0 code=137
+creating hex file from "a"...
+"a" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+linking...
+Program Size: data=11.0 xdata=0 code=137
+creating hex file from "a"...
+"a" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+linking...
+Program Size: data=11.0 xdata=0 code=137
+creating hex file from "a"...
+"a" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+linking...
+Program Size: data=11.0 xdata=0 code=139
+creating hex file from "a"...
+"a" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling t.c...
+linking...
+Program Size: data=11.0 xdata=0 code=137
+creating hex file from "a"...
+"a" - 0 Error(s), 0 Warning(s).
